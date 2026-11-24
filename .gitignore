@@ -1,0 +1,20 @@
+# CCS / TI build output
+Debug/
+Release/
+.settings/
+.clangd
+*.out
+*.map
+*.obj
+*.o
+*.d
+*.pp
+*.lst
+*.hex
+*.bin
+*.axf
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/
